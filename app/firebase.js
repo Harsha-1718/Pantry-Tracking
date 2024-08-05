@@ -1,7 +1,7 @@
 import { initializeApp } from "firebase/app";
 import {getFirestore} from "firebase/firestore"
 const firebaseConfig = {
-  apiKey: "AIzaSyCtJ4HCXXxV9gcOEq5mXUpnoLR7vtnNkQ4",
+  apiKey: "SECRETKEY_API",
   authDomain: "pantry-tracker-27b76.firebaseapp.com",
   projectId: "pantry-tracker-27b76",
   storageBucket: "pantry-tracker-27b76.appspot.com",
